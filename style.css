@@ -1,0 +1,32 @@
+#mydiv-2{
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 0, 0, 0.149);
+    margin: 50px;
+    display: flex;
+    padding: 50px;
+    border-radius: 25px;
+    transition: 2s;
+}
+
+.from{
+    padding: 50px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    
+    
+}
+.form input{
+    display: block;
+    margin: 10px !important;
+    text-align: center;
+}
+#okk{
+    height: 30px;
+    border-radius: 20px;
+    background: transparent;
+    border: 1px solid #000;
+    padding: 5px;
+    display: flex;
+    margin: 10px;
+}
